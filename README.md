@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Nwosu Paul Light
 
-<!--
-**paullight1/Paullight1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 From Materials Engineering to Artificial Intelligence—I'm a passionate self-driven AI Engineer in the making, dedicated to using technology to solve real-world problems in education, poverty, and energy.
 
-Here are some ideas to get you started:
+📝 In 2021, I began my creative journey as an author, publishing books that touched lives. Today, I've transitioned into building intelligent systems—because I believe AI is the most powerful tool to change the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently learning and building:
+- 🔎 Machine Learning & Deep Learning (TensorFlow, PyTorch)
+- 🤖 AI Agents & Automation
+- 🌐 AI for Social Impact (EdTech, Energy, Sustainability)
+
+💡 Projects in the works:
+- **Edutu:** Africa’s Opportunity Discovery Engine powered by AI
+- **Ritii Lab:** Building AI-first prototypes for real-world impact
+- Open-source ML projects
+
+📈 My mission: To grow into a world-class AI Engineer while creating solutions that matter. 
+
+Let’s connect and build the future together. ✨
